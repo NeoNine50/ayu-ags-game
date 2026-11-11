@@ -1,0 +1,1 @@
+var gamefiles = ['NTR-test-project.ags', 'acsetup.cfg'];
